@@ -1,0 +1,38 @@
+
+body {
+    background: #666666;
+    text-align: center;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #ffc222;
+    font-size: 16px;
+}
+
+pre {
+    margin: auto 20px;
+    width: 350px;
+    padding: 25px;
+    color: #ffc222;
+    font-size: 18px;
+}
+
+.result {
+    text-align: center;
+}
+
+input[type="number"] {
+    width: 40px;
+    background: #ffc222;
+    text-align: right;
+}
+
+input[type="button"] {
+    background: #ffc222;
+    border: none;
+    padding: 10px 35px;
+    font-size: 20px;
+    color: aliceblue;
+    border-radius: 6px;
+}

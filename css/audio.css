@@ -1,0 +1,41 @@
+body{
+    background-color: #323232;
+}
+.topic {
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    font-weight: 400; 
+    border: 1px solid transparent;
+    text-align: center; 
+    color: #ffc222;
+    padding: 13px 26px;
+    margin: 2% 30%;
+}
+.topic:hover {
+    border: 1px solid #ffc222; 
+    transition: all .3s;
+}
+.player {
+  background: #707070;
+  width: 50%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 2px;
+  margin: 0 auto;
+  border: 0;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; 
+    color: #ffc222;
+    font-size: 14px;
+    margin: 11px 2px 2px 11px ;
+ }
+audio {
+  filter: sepia(50%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+  width: 97%;
+  height: 25px;
+  background-color: white;
+  margin: 11px;
+}
